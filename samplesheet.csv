@@ -1,0 +1,4 @@
+sample,fastq_1,fastq_2
+ERR5556343,./data/ERR5556343_1.fastq.gz,./data/ERR5556343_2.fastq.gz
+ERR5743893,./data/ERR5743893_1.fastq.gz,./data/ERR5743893_2.fastq.gz
+SRR13500958,./data/SRR13500958_1.fastq.gz,./data/SRR13500958_2.fastq.gz
